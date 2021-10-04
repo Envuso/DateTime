@@ -29,6 +29,10 @@
     "emitDecoratorMetadata": true,
     "resolveJsonModule": true
   },
+  "include": [
+    "src/DateTime.ts",
+    "src/DateTimeContract.ts"
+  ],
   "exclude": [
     "node_modules",
     "dist/**/*",
