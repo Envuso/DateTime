@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2-next.1",
+  "version": "0.0.2-next.2",
   "name": "@envuso/date-time-helper",
   "author": "Sam Parton @iDevelopThings",
   "description": "Envuso's DateTime helper, extracted for use in current projects. Mainly things like sharing between backend and frontend.",
@@ -10,6 +10,7 @@
   "dependencies": {
     "dayjs": "^1.10.4"
   },
+  "main": "./index.js",
   "devDependencies": {
     "ts-node": "^10.2.1",
     "ts-node-dev": "^1.1.8",
